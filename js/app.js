@@ -22,6 +22,19 @@ if (gender === 'yes' || gender ==='y'){
     alert('NO. Your answers is wrong')
 }else{
     alert ('Try one more time')
+
+}
+
+let language = prompt('Do you think I speak Arabic?')
+language = language.toLowerCase();
+if(language === 'yes' || language === 'y'){
+console.log('Nice guess!')
+alert('Nice guess!')
+
+}else if (language ==='no' || language ==='no'){
+alert('You might want to have another guess!')
+}else {
+    alert('That is not an expected answer')
 }
 
 let userName = prompt("Hello! what is your name?")
