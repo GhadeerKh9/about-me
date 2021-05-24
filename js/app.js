@@ -15,7 +15,7 @@ alert('Your answer is wrong')
 let gender = prompt('Do you think I am female?')
 gender = gender.toLowerCase();
 if (gender === 'yes' || gender ==='y'){
-    console.log('Yes. You are right')
+    // console.log('Yes. You are right')
     alert('Yes. You are right!')
 
 }else if (gender === 'no' || gender === 'n'){
@@ -28,7 +28,7 @@ if (gender === 'yes' || gender ==='y'){
 let language = prompt('Do you think I speak Arabic?')
 language = language.toLowerCase();
 if(language === 'yes' || language === 'y'){
-console.log('Nice guess!')
+// console.log('Nice guess!')
 alert('Nice guess!')
 
 }else if (language ==='no' || language ==='no'){
@@ -41,3 +41,11 @@ let userName = prompt("Hello! what is your name?")
 alert('Hello ' + userName + ' You are welcomed!')
 alert("I hope you will have fun browsing this website " + userName)
 
+
+let food = prompt('Do you think I like meat?')
+food = food.toLowerCase();
+switch(food){
+    case 'Yes':
+        alert('Actually, I do not like meat');
+        break;
+}
