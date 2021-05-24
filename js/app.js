@@ -37,15 +37,41 @@ alert('You might want to have another guess!')
     alert('That is not an expected answer')
 }
 
-let userName = prompt("Hello! what is your name?")
-alert('Hello ' + userName + ' You are welcomed!')
-alert("I hope you will have fun browsing this website " + userName)
+
 
 
 let food = prompt('Do you think I like meat?')
 food = food.toLowerCase();
 switch(food){
-    case 'Yes':
+    case 'yes':
+        // console.log('Actually, I do not like meat')
         alert('Actually, I do not like meat');
-        break;
+    break;
+    case 'no':
+            alert('You are right!');
+    break;
+    default :
+            alert('You might have made a typo!');
+
 }
+let website = prompt('Do you like this website?')
+food = website.toLowerCase();
+switch(website){
+    case 'yes':
+        // console.log('Glad to know that')
+        alert('Glad to know that');
+    break;
+    case 'no':
+            alert('We will record your feedback');
+    break;
+    default :
+            alert('You might have made a typo!');
+
+}
+
+
+
+
+let userName = prompt("Hello! what is your name?")
+alert('Hello ' + userName + ' You are welcomed!')
+alert("I hope you will have fun browsing this website " + userName)
