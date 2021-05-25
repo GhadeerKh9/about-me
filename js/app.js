@@ -103,41 +103,41 @@
 
 
 
-// let age = prompt('What do you think my age is?')
-// for(let i = 0; i < 4; i++ ){
-//     if(Number(age) === 29){
-// alert('Yes. Corect!')
-// break;
-// }
-// else if(Number(age) < 29){
-//     age = prompt('Try a higher number')
-
-
-// }
-// else if(Number(age) > 29){
-//     age = prompt('Try a lesser number')
-
-
-// }
-//  if(i === 3){
-//    alert('My age is 29')
-//  }   
-// }
-
-let languages = prompt('what do you think my favourites numbers are?')
-let correctAnswers = [1, 2, 3];
+let age = prompt('What do you think my age is?')
 for(let i = 0; i < 4; i++ ){
-    if(Number(languages) === correctAnswers[0] || Number(languages) === correctAnswers[1] || Number(languages) === correctAnswers[2]){
+    if(Number(age) === 29){
 alert('Yes. Corect!')
 break;
 }
-else {
-    languages = prompt('Try another answer')
+else if(Number(age) < 29){
+    age = prompt('Try a higher number')
 
 
 }
+else if(Number(age) > 29){
+    age = prompt('Try a lesser number')
 
+
+}
  if(i === 3){
-   alert('My favourites numbers are 1 , 2 and 3')
+   alert('My age is 29')
  }   
 }
+
+// let languages = prompt('what do you think my favourites numbers are?')
+// let correctAnswers = [1, 2, 3];
+// for(let i = 0; i < 4; i++ ){
+//     if(Number(languages) === correctAnswers[0] || Number(languages) === correctAnswers[1] || Number(languages) === correctAnswers[2]){
+// alert('Yes. Corect!')
+// break;
+// }
+// else {
+//     languages = prompt('Try another answer')
+
+
+// }
+
+//  if(i === 3){
+//    alert('My favourites numbers are 1 , 2 and 3')
+//  }   
+// }
