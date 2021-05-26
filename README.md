@@ -23,3 +23,8 @@ I think I need to develop my planning skills and make better use of my time. So 
 
 This lab went quite alright.  I learned some interesting stuff and got more used to using Ubuntu and VS code. It took me like hours working on this lab. At first, I thought I would complete it in two hours but apparently, it took a longer time.
 
+**My daily Journal 2**
+I think the experiences I had in my life helped me become the person who I am right now. By getting involved in many experiences, you start seeing life differently and from other perspectives, which will definitely be reflected on your professional life. Personally, I can see that now I am more committed, motivated and productive. I do put a lot of effort trying to get the best out of this course, try to be as effective as I can,  and I am willing to help other colleagues as much as I can. Optimistically, l am looking forward to what's coming next.
+
+**My answers to the questions 2**
+Today's lab was a bit different than the ones before. It allowed us to think and test many codes until we come up with right one. I learned some new methods, such as push, data types, such as arrays and a new way of thinking. it took me more than 4 hours to complete the lab, though i thought it would take like 3 hours.
