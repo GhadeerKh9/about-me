@@ -28,3 +28,4 @@ I think the experiences I had in my life helped me become the person who I am ri
 
 **My answers to the questions 2**
 Today's lab was a bit different than the ones before. It allowed us to think and test many codes until we come up with right one. I learned some new methods, such as push, data types, such as arrays and a new way of thinking. it took me more than 4 hours to complete the lab, though i thought it would take like 3 hours.
+
